@@ -1,4 +1,4 @@
-# Except this file !.gitignore 
+# Except this file !.gitignore
 .classpath
 .project
 .settings
@@ -15,3 +15,5 @@ derby.log
 work
 test/logs
 derby.log
+/distribution/data
+/distribution/logs
